@@ -53,7 +53,7 @@ The Memory Address Register (MAR) holds the address of the memory location that 
 ## What is a bus? Draw the single bus structure.
 A bus is a communication system that transfers data between components of a computer. 
 
-![Single Bus Structure](https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Single_bus_structure.png/300px-Single_bus_structure.png)
+![Single Bus Structure](https://media.geeksforgeeks.org/wp-content/uploads/20200427071253/singlebus.png)
 
 ## What is associative memory?
 Associative memory, or content-addressable memory (CAM), is a type of memory that allows data to be accessed based on content rather than specific addresses.
